@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[InstallSystem]]></title>
         <description><![CDATA[InstallSystem]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/installsystem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 02:30:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 02:33:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/installsystem/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined72bf8e6e-7c14-4ab5-ac7c-ea0d14094a39/index.html</link>
+            <description><![CDATA[<p>Post some info</p>]]></description>
+            <link>https://thegrid.ai/installsystem/72bf8e6e-7c14-4ab5-ac7c-ea0d14094a39/index.html</link>
             <guid isPermaLink="false">72bf8e6e-7c14-4ab5-ac7c-ea0d14094a39</guid>
-            <pubDate>Sat, 05 Mar 2016 02:29:57 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 02:33:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
