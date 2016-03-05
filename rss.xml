@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Site Title goes here]]></title>
         <description><![CDATA[Site Title goes here]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/installsystem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 02:44:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 02:53:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/installsystem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/installsystem/20b2f313-67ea-4f24-8b6b-93f589fd2eec/index.html</link>
+            <guid isPermaLink="false">20b2f313-67ea-4f24-8b6b-93f589fd2eec</guid>
+            <pubDate>Sat, 05 Mar 2016 02:48:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This seems inefficient. Can I left-justify?</p>]]></description>
-            <link>undefinedfe5f81be-08aa-4fda-a049-8a451205e46a/index.html</link>
+            <link>https://thegrid.ai/installsystem/fe5f81be-08aa-4fda-a049-8a451205e46a/index.html</link>
             <guid isPermaLink="false">fe5f81be-08aa-4fda-a049-8a451205e46a</guid>
             <pubDate>Sat, 05 Mar 2016 02:44:05 GMT</pubDate>
         </item>
