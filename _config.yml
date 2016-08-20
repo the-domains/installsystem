@@ -24,6 +24,12 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: >-
+      I am typing my text here in drafts. for a specific "Post". Apparently. Can
+      I change the font? Can I create paragraphs and lists?
+    id: 675da748-0820-48c7-a368-51f97893ef18
+    type: content
 favicon: null
 title: Apparently the Site Title goes here
 description: Tagline goes here
