@@ -1,20 +1,4 @@
-name: InstallSystem
-favicon: null
-layout_spectrum: 0.75286
 typography_spectrum: 0
-title: Apparently the Site Title goes here
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -26,4 +10,21 @@ color:
   lightness: 0.7348334449343383
   saturation: 0.8108768167439848
   rhythmicContrast: 0.18322767945937812
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75286
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: InstallSystem
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Apparently the Site Title goes here
+description: Tagline goes here
 purpose: []
